@@ -11,7 +11,6 @@ PasswordForge is a Windows PowerShell application that rates password strength, 
 - Cryptographically secure random password generation
 - Readable passphrase generation
 - Similar-character exclusion
-- Copy, clear, show, and dark-mode controls
 
 ## Requirements
 
